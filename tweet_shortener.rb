@@ -1,4 +1,5 @@
 def dictionary
   dictionary = {
-    "hello" ==> "hi"
+    "hello" ==> "hi",
+    "to"
   }
